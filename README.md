@@ -1,7 +1,7 @@
 # My Awesome React Native App
 
 A simple React Native demo app based on the tutorial in the blog post 
-["TODO link"](https://scanbot.io/blog/TODO/).
+["React Native app tutorial: How to integrate our scanning functionalities"](https://scanbot.io/blog/react-native-app-tutorial-how-to-integrate-our-scanning-functionalities).
 
 For a **full** example project which demonstrates **all** API methods of the Scanbot SDK for React Native
 see the repo [scanbot-sdk-example-react-native](https://github.com/doo/scanbot-sdk-example-react-native).
